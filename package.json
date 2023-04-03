@@ -1,0 +1,16 @@
+{
+  "name": "map_xferra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/app.js",
+  "scripts": {
+    "run": "public/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "leaflet": "^1.9.3"
+  }
+}
