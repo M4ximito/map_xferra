@@ -2,9 +2,9 @@
   "name": "map_xferra",
   "version": "1.0.0",
   "description": "",
-  "main": "public/app.js",
+  "main": "src/app.js",
   "scripts": {
-    "run": "public/app.js"
+    "run": "src/app.js"
   },
   "keywords": [],
   "author": "",

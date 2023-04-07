@@ -18,9 +18,3 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18
 }).addTo(map);
 
-
-const marker1 = L.marker([55.753215, 37.622504]).addTo(map);
-marker1.bindPopup("<b>Москва</b><br>Столица России.").openPopup();
-
-const marker2 = L.marker([59.9386300, 30.3141300]).addTo(map);
-marker2.bindPopup("<b>Санкт-Петербург</b><br>Культурная столица России.").openPopup();
